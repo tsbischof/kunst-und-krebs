@@ -1,7 +1,7 @@
 import numpy
 
-t = numpy.linspace(0, 2*numpy.pi, 1024)
-y = numpy.sin(t)
+t = numpy.linspace(0, numpy.pi, 1023)
+y = numpy.sin(t)**10
 
 dtype = numpy.uint8
 min_y = numpy.iinfo(dtype).min
