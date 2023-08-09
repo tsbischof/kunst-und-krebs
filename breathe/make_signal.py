@@ -1,6 +1,7 @@
 import numpy
 
-t = numpy.linspace(0, numpy.pi, 1023)
+dt = 0.2
+t = numpy.linspace(0+dt, numpy.pi-dt, 1023)
 y = numpy.sin(t)**10
 
 dtype = numpy.uint8

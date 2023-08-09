@@ -5,7 +5,8 @@ const uint8_t led0 = 10;
 const uint8_t wave1[] = BREATH;
 const uint8_t led1 = 11;
 const size_t signal_length = min(sizeof(wave0)/sizeof(uint8_t), sizeof(wave1)/sizeof(uint8_t));
-const unsigned int duration_ms = 5000;
+const unsigned int duration_ms = 8000;
+const unsigned int delay_between_leds_ms = 0;
 const unsigned int delay_ms = (duration_ms) / signal_length;
 
 void setup() {
@@ -20,25 +21,19 @@ void setup() {
   Serial.println(duration_ms);
   Serial.print("delay_ms=");
   Serial.println(delay_ms);
+  Serial.print("delay_between_leds_ms=");
+  Serial.println(delay_between_leds_ms);
 }
 
 void loop() {
   for (size_t i = 0; i < signal_length; i++) {
-//    Serial.println(millis());
     analogWrite(led0, wave0[i]);
     delay(delay_ms);
   }
-  delay(duration_ms/3);
+  delay(delay_between_leds_ms);
   for (size_t i = 0; i < signal_length; i++) {
-//    Serial.println(millis());
     analogWrite(led1, wave1[i]);
     delay(delay_ms);
   }
-  delay(duration_ms/3);
-/*  analogWrite(led_0, 0);
-  analogWrite(led_1, 255);
-  delay(500);
-  analogWrite(led_0, 255);
-  analogWrite(led_1, 0);
-  delay(500); */
+  delay(delay_between_leds_ms);
 }

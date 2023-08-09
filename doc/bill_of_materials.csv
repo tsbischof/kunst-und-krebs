@@ -1,0 +1,27 @@
+Vendor,Part number,Quantity,Description
+Thorlabs,LEDD1B,2," T-Cube LED Driver, 1200 mA Max Drive Current (Power Supply Not Included) "
+Thorlabs,KPS201,2,"15 V, 2.66 A Power Supply Unit with 3.5 mm Jack Connector for One K- or T-Cube"
+Thorlabs,M395L5,1,"395 nm, 1130 mW (Min) Mounted LED, 1000 mA "
+Thorlabs,M470L4,1,"470 nm, 760 mW (Min) Mounted LED, 1000 mA "
+Thorlabs,LMR1S/M,2," Ø1"" Lens Mount with Internal and External SM1 Threads, M4 Tap"
+Thorlabs,SM1V10,2,"Ø1"" Adjustable Lens Tube, 0.81"" Travel Range"
+Thorlabs,ACL2520U-A,2,"Aspheric Condenser Lens, Ø25 mm, f=20.1 mm, NA=0.60 ARC: 350-700 nm"
+Thorlabs,SM1RR,2,"SM1 Retaining Ring for Ø1"" Lens Tubes and Mounts"
+Thorlabs,TR50/M,2,"Ø12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 50 mm "
+Thorlabs,TR75/M,2,"Ø12.7 mm Optical Post, SS, M4 Setscrew, M6 Tap, L = 75 mm "
+,,2,"M4 set screw, L = 10 mm"
+Thorlabs,PH50/M,2,"Ø12.7 mm Post Holder, Spring-Loaded Hex-Locking Thumbscrew, L=50 mm  "
+,,2,"M6 cap screw, L = 10 mm"
+Thorlabs,SWC/M,2,"Rotating Clamp for Ø1/2"" Posts, 360° Continuously Adjustable, 5 mm Hex "
+Thorlabs,BA1/M,2,"Mounting Base, 25 mm x 75 mm x 10 mm"
+Hirschmann,933844001,2,"Hirschmann BNC-Messleitung Buchse / Stecker, Schwarz PVC-isoliert 1.2m, 60V dc"
+TE Connectivity,5-1634526-1,2,"HF Adapter, BNC - BNC, 50Ω, Male - Weiblich, gewinkelt, 4GHz"
+Spelsberg,82591001,1,Verbindungsdose (L x B x H) 200 x 250 x 115mm Grau IP65
+,,1,3-fach 1.4m Kabel IP20 Steckerleise
+Tesa,TE-000727-ST,12,tesa Powerstrips® Kabel-Clip
+Tesa,TE-000451-ST,2,tesa® Klebestreifen für Fliesen und Metall (3kg)
+Arduino,A000005,1,Arduino Nano
+Christian’s Technikshop,100381,1,Nano V3.0 Prototype Shield | mehr Inputs und Outputs am Arduino Nano
+Voltcraft,VC-11342765,1,VOLTCRAFT QCP-3000 VC-11342765 USB-Ladegerät Steckdose Ausgangsstrom (max.) 3000 mA 1 x USB Qualcomm Quick Charge 3.0 
+,,1,"USB A to USB 2 mini, L=1m"
+,,1,5m Schuko extension cable
