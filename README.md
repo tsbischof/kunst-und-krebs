@@ -1,9 +1,9 @@
 # Kunst und Krebs
 
-[![](doc/in_situ/PXL_20230809_141304418.MP.jpg)](https://www.youtube.com/watch?v=xE2tcexrAlM)
-[![](doc/in_situ/PXL_20230809_141258082.MP.jpg)](https://www.youtube.com/watch?v=xE2tcexrAlM)
+[![](doc/in_situ/PXL_20230809_141304418.MP.jpg)](https://www.youtube.com/watch?v=tSWUL30TMcM)
+[![](doc/in_situ/PXL_20230925_123250516.MP.jpg)](https://www.youtube.com/watch?v=tSWUL30TMcM)
 
-See [here](https://www.youtube.com/watch?v=xE2tcexrAlM) for a video of the exhibition.
+See [here](https://www.youtube.com/watch?v=tSWUL30TMcM) for a video of the exhibition.
 
 The project files for lighting as part of the Kunst und Krebs exhibition, installed in NCT Dresden from 2023-2024.
 This consists of:
