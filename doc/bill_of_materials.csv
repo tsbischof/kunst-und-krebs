@@ -1,8 +1,7 @@
 Vendor,Part number,Quantity,Description
 Thorlabs,LEDD1B,2," T-Cube LED Driver, 1200 mA Max Drive Current (Power Supply Not Included) "
 Thorlabs,KPS201,2,"15 V, 2.66 A Power Supply Unit with 3.5 mm Jack Connector for One K- or T-Cube"
-Thorlabs,M395L5,1,"395 nm, 1130 mW (Min) Mounted LED, 1000 mA "
-Thorlabs,M470L4,1,"470 nm, 760 mW (Min) Mounted LED, 1000 mA "
+Thorlabs,M395L5,2,"395 nm, 1130 mW (Min) Mounted LED, 1000 mA "
 Thorlabs,LMR1S/M,2," Ø1"" Lens Mount with Internal and External SM1 Threads, M4 Tap"
 Thorlabs,SM1V10,2,"Ø1"" Adjustable Lens Tube, 0.81"" Travel Range"
 Thorlabs,ACL2520U-A,2,"Aspheric Condenser Lens, Ø25 mm, f=20.1 mm, NA=0.60 ARC: 350-700 nm"
@@ -25,3 +24,4 @@ Christian’s Technikshop,100381,1,Nano V3.0 Prototype Shield | mehr Inputs und 
 Voltcraft,VC-11342765,1,VOLTCRAFT QCP-3000 VC-11342765 USB-Ladegerät Steckdose Ausgangsstrom (max.) 3000 mA 1 x USB Qualcomm Quick Charge 3.0 
 ,,1,"USB A to USB 2 mini, L=1m"
 ,,1,5m Schuko extension cable
+,,1,"cable management spiral, white"
